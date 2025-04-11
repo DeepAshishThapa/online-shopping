@@ -1,0 +1,8 @@
+.container{
+    overflow: auto;
+    display: flex;
+}
+.card{
+    min-width: 200px;
+    
+}
